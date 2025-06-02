@@ -10,4 +10,11 @@ I have learnt quite a number of things ranfing from Ms Excel to SQL and now to m
 - SQL Server (For Querying And Analysis)
 - Power BI (For Creating a report)
 - Ms Power Point (For Presentation)
-  
+
+```
+  SQL
+SELECT A,B,C
+WHERE A>45
+```
+
+
